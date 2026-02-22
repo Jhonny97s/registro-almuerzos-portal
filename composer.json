@@ -2,6 +2,6 @@
     "name": "nutriplan/portal-clientes",
     "description": "Portal de clientes para consulta de saldos",
     "require": {
-        "php": ">=7.4 <8.4"
+        "php": "^8.2"
     }
 }
