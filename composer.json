@@ -1,0 +1,7 @@
+{
+    "name": "nutriplan/portal-clientes",
+    "description": "Portal de clientes para consulta de saldos",
+    "require": {
+        "php": "^8.0"
+    }
+}
